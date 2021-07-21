@@ -28,6 +28,17 @@
   color: #61dafb;
 }
 
+.input-temperature{
+  background-color: #353b46;
+  border-color: rgb(39, 143, 132);
+  font-weight: bold;
+  color: white;
+  border-radius: 10px;
+  width: 40vh;
+  height: 4vh;
+  text-align: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +46,51 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.state-info{
+  margin-top: 5vh;
+  font-size: 30px;
+  
+}
+
+.img-gas{
+  border-radius: 10px;
+  height: 15vh;
+  width: 30vh;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrocuFVpC6jDyy3WOKYbvBUnww7FQNo4KcXbyDXV7qsstCmv4tl4T8oX9QmZHrDW9VknQ&usqp=CAU");
+  border-color: white;
+  border-width: 3px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #040309;
+}
+.img-liquid{
+  border-radius: 10px;
+  height: 15vh;
+  width: 25vh;
+  background-image: url("https://www.faber-castell.com/-/media/Faber-Castell-new/Inspiration/artists/2017/albrecht-duerer/wasserglas-magnus/image-content-detail-half-glas3.ashx?la=en-Glob&h=606&w=1074&mw=1280&hash=ACB646F6B187FBE197613322327EC2EBC0F667D8");
+  border-color: white;
+  border-width: 3px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.img-solid{
+  border-radius: 10px;
+  height: 15vh;
+  width: 25vh;
+  background-image: url("https://i1.wp.com/drawingnow.com/file/videos/image/how-to-draw-ice.jpg");
+  border-color: white;
+  border-width: 3px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #ccdefa;
+}
+
+.images-container{
+  margin-top: 5vh;
 }
