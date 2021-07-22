@@ -1,7 +1,7 @@
 # StateOfWater
 State of water React App
 
-# Liquid
+# Design
  |       Liquid     |
 |:-------------:|
 | <img src="/design/Liquid.png" alt="drawing" height="400"/>|  
